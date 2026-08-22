@@ -31,3 +31,5 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+.virtual_documents/
+anaconda_projects/
